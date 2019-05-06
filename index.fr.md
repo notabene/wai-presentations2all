@@ -83,35 +83,35 @@ Rendez votre événement et vos présentations complètement accessibles pour ê
 
 Une présentation accessible aux personnes handicapées est aussi **inclusive** pour de nombreuses autres personnes. Par exemple les personnes qui apprennent différemment et les personnes qui ne parlent pas couramment votre langue.
 
-Accessible presentations also have additional benefits, such as in these situations:
+Les présentations accessibles comportent en outre encore plus de bénéfices, par exemple :
 
--  A live presentation with visuals is recorded and made available online as an audio podcast. During the presentation you describe the visuals. That provides the visual information to people who are blind or can't see the visuals well during the presentation. People listening to the podcast later will also get the visual information.
--  [CART](#cart){:.termref} provides real-time text of the speaker and other audio. People who are deaf or hard of hearing use CART. CART also helps people who understand text better than spoken language. For example, people whose native language is different. CART output can also be used to develop a transcript.
--  Transcripts online can increase search engine optimization (SEO) for audio and video. [Transcripts also have many other benefits {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
+- Une présentation à l’oral avec des visuels est enregistrée et mise en ligne sous forme de podcast audio. Pendant la présentation vous décrivez les visuels. Cela fournit l’information visuelle aux personnes qui sont aveugles ou qui ne peuvent pas voir vos visuels pendant la présentation. Les gens qui écoutent le podcast auront aussi cette information visuelle.
+- La [sténographie en temps réel](#cart){:.termref} (CART : <i lang="en">Communication Access Realtime Translation</i>) fournit en temps réel le texte de l’orateur et d’autres informations audio. Les gens qui snot sourds ou malentendants utilisent CART. CART permet aussi à ceux qui comprennent mieux le texte écrit qu’oral. Par exemple, ceux dont la langue de naissance est différente. CART peut aussi être utilisé pour produire une transcription.
+- Les transcriptions en ligne peuvent améliorer le référencement (SEO) de l’audio et de la vidéo. [Les transcriptions peuvent avoir bien d’autres bénéfices {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
 
-For additional benefits of making online material accessible, see [The Business Case for Digital Accessibility](https://www.w3.org/WAI/business-case/).
+Pour d’autres bénéfices de rendre le matériel en ligne accessible, voir [Bénéfices business de l’accessibilité numérique ](https://www.w3.org/WAI/business-case/).
 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="arrange" %}
-## Planning the Event (organizers)
+## Prévoir l’événement (pour les organisateurs)
 {% include_cached excol.html type="middle" %}
 
-### Ask speakers and participants if they have accessibility requirements.
+### Demandez aux orateurs et aux participants s’ils ont des besoins en accessibilité
 
-For example, include a question on registration forms for conferences, send an email to company-internal training participants, etc. Invite participants to include specific requests. For example, someone who is hard of hearing might request seating small discussion groups in a circle to make it easier to hear people talking. Or someone with low vision might ask to sit in the front row to see the screen better.
+Par exemple, incluez une question dans le formulaire d’inscription de la conférence, envoyez un courriel aux participants d’une formation interne, etc. Invitez les participants à préciser leurs demandes spécifiques. Par exemple, une personne qui entend mal peut demander que les groupes de discussion s’assoient en rond pour pouvoir entendre plus facilement. Ou une personne qui voit mal peut demander d’être au premier rang pour mieux voir l’écran.
 
-### Ensure the facility and area is accessible to speakers and participants.
+### Assurez-vous que la salle et le quartier sont accessibles aux orateurs et aux participants
 
-For example, ensure the building entrance, meeting room, presentation stage, and bathrooms are accessible. (There are checklists online to help ensure a facility is accessible, such as [Accessibility Checklist for Existing Facilities {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Provide accessibility information, such as the accessible routes between meeting rooms. Let speakers and participants check out the rooms in advance to suggest optimum positioning of the speaker, screen, seating, etc.
+Par exemple, assurez-vous que l’entrée de l’immeuble, la salle de réunion, l’estrade, les toilettes sont accessibles. (Il existe des listes en ligne pour s’assurer qu’un lieu est accessible, comme <span lang="en">[Accessibility Checklist for Existing Facilities {% include_cached external.html %}](http://uiaccess.com/facilities.html)</span>). Fournissez des informations sur l’accessibilité, telles que les parcours accessibles entre les salles de réunion. Permettez aux orateurs et aux participants de contrôler les salles au préalable pour pouvoir suggérer un positionnement optimal de l’orateur, de l’écran, de la disposition des chaises, etc.
 
-### Ensure adequate sound system, and arrange for microphones.
+### Assurez-vous de la qualité du système sonore, et des arrangements pour les micros
 
-Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
+Souvent des micros-cravates sans fil sont adéquats pour que l’orateur puisse bouger. Quand les participants commentent ou posent des questions, fournissez-leur des micros.
 
-### Arrange for good visibility of the speakers and [interpreters](#terps){:.termref}.
+### Prévoyez une bonne visibilité des orateurs et des [interprètes](#terps){:.termref}
 
-Have good lighting on their face and upper body. Avoid distracting backgrounds, such as bright sunlight or flashing light.
+Fournissez un bon éclairage sur leur visage et la partie supérieure de leur corps. Évitez les fonds gênants, comme l’éclat du soleil ou une lumière qui clignote.
 
 ### Arrange for [ALDs/hearing loops](#ald){:.termref}, [interpreters,](#terps){:.termref} and/or [CART](#cart){:.termref} writers, as needed.
 
