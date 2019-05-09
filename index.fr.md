@@ -113,66 +113,54 @@ Souvent des micros-cravates sans fil sont adéquats pour que l’orateur puisse 
 
 Fournissez un bon éclairage sur leur visage et la partie supérieure de leur corps. Évitez les fonds gênants, comme l’éclat du soleil ou une lumière qui clignote.
 
-### Arrange for [ALDs/hearing loops](#ald){:.termref}, [interpreters,](#terps){:.termref} and/or [CART](#cart){:.termref} writers, as needed.
+### Prévoyez [des appareils de sonorisation assistée, des boucles magnétiques](#ald){:.termref}, des [interprètes](#terps){:.termref} et/ou des [transcripteurs](#cart){:.termref}, selon le besoin
 
-*(Assistive listening devices ([ALDs](#ald){:.termref}), hearing loops, or induction loops; and Computer Aided Real–Time Captioning or Communication Access Realtime Translation ([CART](#cart){:.termref}) are explained in the [Terminology](#terms) section.)* <br/>Work with participants and service providers to ensure that important details are taken care of. For example, power and a screen are provided for CART. Or microphones and the speakers' computer sound output is connected to the [ALD/hearing loop](#ald){:.termref} system.
+*Note : Appareils de sonorisation assistée (<i lang="en">Assistive listening devices</i>, [ALDs](#ald){:.termref}), boucles magnétiques et boucles à induction, ainsi que [sténographie en temps réel](#cart){:.termref}, ou vélotypie (CART : <i lang="en">Communication Access Realtime Translation</i>) sont expliqués dans le [Glossaire](#terms) ci-dessous.* <br/> Travaillez avec des participants et des prestataires de services pour vous assurer que tous les détails importants sont couverts. Par exemple, fournir de l’électricité et un écran au vélotypiste. Ou que les microphones et la sortie son des ordinateurs des orateurs sont connectés au système de [sonorisation adaptée/boucle magnétique](#ald){:.termref}.
 
-### Arrange for good Internet connection when needed.
+### Assurez-vous d’une bonne connexion internet le cas échéant
 
-Sometimes you might use the Internet for providing alternative formats of materials during the presentation. For example, allowing people using screen readers or other [assistive technologies](#terms){:.termref} to follow along with an online version of your displayed material. For remote [CART](#cart){:.termref}, you will need a reliable connection that has enough bandwidth for transferring audio.
+De temps en temps on peut utiliser internet pour fournir des formats alternatifs de matériels pendant la présentation. Par exemple, pour permettre à des utilisateurs de lecteurs d’écran ou d’autres [technologies d’assistance](#terms){:.termref} de suivre au fur et à mesure via une version en ligne du matériel que vous affichez. En cas de [sténographie en temps réel](#cart){:.termref} distante, vous aurez besoin d’une connexion fiable avec suffisamment de bande passante pour transmettre l’audio.
 
-### Consider accessibility when planning the schedule.
+### Pensez à l’accessibilité quand vous planifiez les séances
 
-Some people need more time to get from room to room. For example, because they move slowly, or because the accessible route is longer. Schedule sufficient breaks. People might need to take care of medical needs during breaks. Keep to the schedule as much as possible, and inform participants ahead of time of any changes.
+Certaines personnes ont besoin de plus de temps pour aller de salle en salle, par exemple si elles bougent doucement, ou si le trajet accessible est plus long. Prévoyez des temps de pause suffisants. Certaines personnes peuvent avoir besoin de ces pauses pour des soins médicaux. Respectez le planning le plus possible, et informez d’avance les participants des changements éventuels.
 
-### Give speakers accessibility requirements and guidance.
+### Expliquez aux orateurs vos exigences et accompagnez-les
 
-Tell speakers that you expect their material and presentations to be accessible to people with disabilities. Consider including accessibility requirements in any contracts. Consider including the link to this page (www.w3.org/WAI/training/accessible) in speaker guidelines, e-mails, web pages, etc.
+Dites aux orateurs que vous attendez de leur part du matériel et des présentations accessibles aux personnes en situation de handicap. Pensez à inclure des exigences d’accessibilité dans les contrats. Pensez à inclure un lien vers la présente page (www.w3.org/WAI/training/accessible) dans les recommandations aux orateurs, dans vos courriels, vos pages web, etc.
 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="material" %}
-## Provide Accessible Material and Media (organizers & speakers)
+## Fournissez des matériels et des médias accessibles (pour les organisateurs et les orateurs)
 {% include_cached excol.html type="middle" %}
-### Offer handouts, slides, and other material in accessible formats.
+### Proposez les documents distribués, les slides et tout autre matériel sous un format accessible
 
-Word processing formats are often the most flexible to meet different people's needs. Participants might need material in alternative formats such as large print or braille. If they get the material in advance electronically, they may not need it in hard copy.
+Les formats de logiciels de traitement de texte sont souvent les plus adaptables à des besoins variés. Les participants peuvent avoir besoin de matériel dans un format alternatif, par exemple en grands caractères ou en braille. S’ils reçoivent le matériel d’avance sous forme électronique, ils peuvent ne pas avoir besoin d’une version physique.
 
-### Ensure slides, handouts, and other electronic material for participants is accessible.
+### Assurez-vous que les slides, les documents distribués et les matériels électroniques mis à disposition des participants sont accessibles
 
-For example, provide alternative text for images and mark up headings. HTML material, such as a conference website, should meet [WCAG](/WAI/intro/wcag.php), at least Level AA. ([Preparing Slides and Projected Material](#slides) below has details for speakers. Some other resources are listed under [For More Information](#fyi) below.)
+Par exemple, fournissez des textes alternatifs aux images, marquez correctement les titres. Le matériel HTML, par exemple le site de la conférence, doit être conforme aux [WCAG](/WAI/intro/wcag.php), au moins au niveau AA. Pour plus de détails pour les orateurs, voir ci-dessous [Préparer ses slides et son matériel projeté](#slides). D’autres resssources sont listées dans [Plus d’informations](#fyi) ci-dessous.
 
-### Make media fully accessible — including audio and video used in sessions, and recordings of sessions provided afterwards.
+### Rendez les médias pleinement accessibles, y compris l’audio et la vidéos utilisés, et les enregistrements des sessions fournis à la suite
 
-For example, provide captions and/or transcripts as appropriate for
-audio, and provide audio description for videos as needed. [Guidelines
-for media on the
-web](http://www.w3.org/WAI/WCAG20/quickref/#media-equiv) is available in
-[WCAG](/WAI/intro/wcag.php); it includes specific guidance such as
-[providing an alternative for audio-only
-content](http://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/G158)
-(like podcasts).
+Par exemple, fournissez des sous-titres et/ou des transcriptions le cas échéant pour l’audio, et fournissez de l’audio description si nécessaire pour les vidéos. Des [recommandations pour les médias sur le Web](http://www.w3.org/WAI/WCAG20/quickref/#media-equiv) (en anglais) sont disponibles dans les [WCAG](/WAI/intro/wcag.php). Elles comportent des conseils spécifiques tels que [comment fournir une alternative pour un contenu uniquement audio](http://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/G158) (en anglais), comme les podcasts par exemple.
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="plan" %}
-## Planning Your Session (speakers)
+## Préparer votre session (pour les orateurs)
 {% include_cached excol.html type="middle" %}
-### Provide material ahead of time, if requested.
+### Fournissez votre matériel à l’avance, si on vous le demande
 
-Provide slides, handouts, and other material to participants,
-[interpreters](#terps){:.termref}, translators, and
-[CART](#cart){:.termref} writers, as needed. Make it accessible. (More
-about [providing accessible material](#material) is above.)
+Fournissez les slides, les documents que vous distribuerez aux participants, aux [interprètes](#terps){:.termref}, traducteurs, [vélotypistes](#cart){:.termref} si besoin. Rendez-les accessibles. (Voir ci-dessous [comment fournir du matériel accessible](#material).)
 
-### Work with [interpreters](#terps){:.termref}, translators, and [CART](#cart){:.termref} writers.
+### Travaillez avec les [interprètes](#terps){:.termref}, les traducteurs, et les [vélotypistes](#cart){:.termref}
 
-Give them material in advance. Explain acronyms, terms, names, etc. that you will use. Be available to answer questions.
+Fournissez-leur le matériel à l’avance. Expliquez les acronymes, les termes, les noms que vous utiliserez. Soyez à leur disposition en cas de questions.
 
-### Caption audio, or otherwise make it available.
+### Sous-titrez l’audio, ou fournissez une alternative le cas échéant
 
-Ideally, any audio you use is also available in text, for example,
-videos are captioned. However, if [CART](#cart){:.termref} is provided
-for your presentation, that can provide text of the audio.
+Idéalement, toute piste audio que vous utiliserez sera aussi disponible sous forme de texte : par exemple, les vidéos sont sous-titrées. Cependant, si la [vélotypie](#cart){:.termref} est présente, elle peut restituer le texte de la piste audio.
 
 ### Consider activities.
 
